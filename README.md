@@ -1,4 +1,4 @@
-# 🚀 Techies Garage – Official GitHub Organization
+# 🚀 Techies Garage – Modern Web Solutions
 
 Welcome to the official GitHub space of **Techies Garage**, a modern digital agency focused on building high-performance, scalable, and visually powerful web solutions for startups, businesses, and innovators.
 
